@@ -40,3 +40,7 @@ Pasted the public raw URLs of each uploaded file inside it.
 Verified Accessibility
 
 Tested each URL by opening it in an incognito window to ensure it’s publicly accessible.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bd5bb73b-55f5-47ae-8778-b7f2502d8287)
